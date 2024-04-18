@@ -22,9 +22,12 @@ const stocks = [
 const updateStockPrices = async (symbol, interval) => {
     setInterval(async () => {
         try {
-            const today = new Date().toISOString().slice(0, 10); // Get today's date in YYYY-MM-DD format
+            const today = new Date();
+            today.setDate(today.getDate() - 1);
+            const yesterday = today.toISOString().slice(0, 10); 
+
             const response = await axios.get(
-                `https://api.polygon.io/v1/open-close/${symbol}/${today}`,
+                `https://api.polygon.io/v1/open-close/${symbol}/${yesterday}`,
                 {
                     params: {
                         apiKey,
