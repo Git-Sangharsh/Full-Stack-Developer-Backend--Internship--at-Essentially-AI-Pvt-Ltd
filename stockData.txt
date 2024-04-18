@@ -1,11 +1,11 @@
-{"symbol":"AAPL","open":169.8552013072263,"details":{"status":"OK","from":"2024-04-17","symbol":"AAPL","open":169.61,"high":170.65,"low":168,"close":168,"volume":48503680,"afterHours":168.35,"preMarket":169.68}}
-{"symbol":"MSFT","open":417.70733935803435,"details":{"status":"OK","from":"2024-04-17","symbol":"MSFT","open":417.25,"high":418.88,"low":410.33,"close":411.84,"volume":15372503,"afterHours":411.42,"preMarket":415.27}}
-{"symbol":"AMZN","open":185.04885817055523,"details":{"status":"OK","from":"2024-04-17","symbol":"AMZN","open":184.31,"high":184.57,"low":179.82,"close":181.28,"volume":30588798,"afterHours":181.13,"preMarket":183.55}}
+{"symbol":"AAPL","open":170.33455807033206,"details":{"status":"OK","from":"2024-04-17","symbol":"AAPL","open":169.61,"high":170.65,"low":168,"close":168,"volume":48503680,"afterHours":168.35,"preMarket":169.68}}
+{"symbol":"MSFT","open":418.02456872524357,"details":{"status":"OK","from":"2024-04-17","symbol":"MSFT","open":417.25,"high":418.88,"low":410.33,"close":411.84,"volume":15372503,"afterHours":411.42,"preMarket":415.27}}
+{"symbol":"AMZN","open":184.49713599425343,"details":{"status":"OK","from":"2024-04-17","symbol":"AMZN","open":184.31,"high":184.57,"low":179.82,"close":181.28,"volume":30588798,"afterHours":181.13,"preMarket":183.55}}
 {"symbol":"GOOGL","open":156.39916256164594,"details":{"status":"OK","from":"2024-04-17","symbol":"GOOGL","open":155.62,"high":157.08,"low":154.58,"close":155.47,"volume":20838523,"afterHours":155.2,"preMarket":154.25}}
-{"symbol":"TSLA","open":157.70177568349726,"details":{"status":"OK","from":"2024-04-17","symbol":"TSLA","open":157.64,"high":158.33,"low":153.78,"close":155.45,"volume":82235384,"afterHours":154.71,"preMarket":157.29}}
+{"symbol":"TSLA","open":157.735713044757,"details":{"status":"OK","from":"2024-04-17","symbol":"TSLA","open":157.64,"high":158.33,"low":153.78,"close":155.45,"volume":82235384,"afterHours":154.71,"preMarket":157.29}}
 {"symbol":"FB","open":0}
-{"symbol":"NVDA","open":883.9978971028011,"details":{"status":"OK","from":"2024-04-17","symbol":"NVDA","open":883.4,"high":887.75,"low":839.5,"close":840.35,"volume":49296232,"afterHours":846.78,"preMarket":872.61}}
-{"symbol":"JPM","open":182.19481245007466,"details":{"status":"OK","from":"2024-04-17","symbol":"JPM","open":181.37,"high":182.4199,"low":179.2,"close":180.08,"volume":8893394,"afterHours":180.1,"preMarket":181.24}}
+{"symbol":"NVDA","open":883.9320629926742,"details":{"status":"OK","from":"2024-04-17","symbol":"NVDA","open":883.4,"high":887.75,"low":839.5,"close":840.35,"volume":49296232,"afterHours":846.78,"preMarket":872.61}}
+{"symbol":"JPM","open":182.04977915014626,"details":{"status":"OK","from":"2024-04-17","symbol":"JPM","open":181.37,"high":182.4199,"low":179.2,"close":180.08,"volume":8893394,"afterHours":180.1,"preMarket":181.24}}
 {"symbol":"V","open":273.4909961368864,"details":{"status":"OK","from":"2024-04-17","symbol":"V","open":273.3,"high":274,"low":271.5,"close":272.69,"volume":5358432,"afterHours":272.68,"preMarket":273.6}}
 {"symbol":"DIS","open":114.51909301392664,"details":{"status":"OK","from":"2024-04-17","symbol":"DIS","open":114,"high":114.21,"low":112.89,"close":112.94,"volume":7084731,"afterHours":113.04,"preMarket":114.1}}
 {"symbol":"BABA","open":69.99271101199496,"details":{"status":"OK","from":"2024-04-17","symbol":"BABA","open":69.71,"high":70.01,"low":68.725,"close":68.82,"volume":12759236,"afterHours":68.95,"preMarket":69.72}}
